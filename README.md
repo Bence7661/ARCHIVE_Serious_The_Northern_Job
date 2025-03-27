@@ -6,6 +6,8 @@ When you're adventuring on the North you don't give the slightest care in the wo
 
 This mod checks if you're on a Northern map looking for a job. If you're then it will filter out all tasks that would send you down South. You've spent enough time there fixing it. Now you've got more pressing matters elsewhere.
 
+Now since **The Job Can Wait** will become part of G.A.M.M.A. I actually already handled it as if it were part of it, so this mod also includes **The Job Can Wait** mod.
+
 ## Tasks included
 All vanilla anomaly tasks are accounted for (in theory) with 1 exception
 - Bounty
@@ -26,8 +28,8 @@ iTheon's tasks:
 - Blood Stained Coin
 
 ## Installation
-If you have **The Job Can Wait** installed make sure that you install this with higher priority, so if **The Job Can Wait** has prio of 1 this mod should have a priority of 2.
-Otherwise just drop it at max prio.
+Just drop it at max prio.
+If you have **The Job Can Wait** you can disable it after installing this one since it's already included.
 
 ## Compatibility
 Manual patching needed
