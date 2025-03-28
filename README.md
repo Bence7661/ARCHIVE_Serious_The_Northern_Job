@@ -1,5 +1,5 @@
 # The Northern Job
-V2.0.0  
+V2.1.0  
 
 You're a seasoned stalker. You've disabled the **Miracle Machine** fought off the Monolith at the barrier and turned off the **Brain Scorcher**.  
 When you're adventuring on the North you don't give the slightest care in the world about stuff that needs to be done South, so why should anyone bother you with Southern concerns?  
